@@ -1,0 +1,12 @@
+{
+    "name": "e7gezly/bulksms",
+    "authors": [
+        {
+            "name": "karim",
+            "email": "karim.mostafa@e7gezly.com"
+        }
+    ],
+    "require": {
+    	"guzzlehttp/guzzle": "6.1.1"
+    }
+}
